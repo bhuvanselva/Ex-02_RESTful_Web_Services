@@ -10,9 +10,8 @@ To create, deploy and execute RESTful Web service programs using Server, Client 
 Step 1: Create a new Java Web Project. Follow Steps 1-5 as in SOAP Based Web Service.
 Step 2: Right-click on the project name and select New->RESTful Web Services from Patterns.
 
-```
-![276879648-d373199d-6217-44b5-a1b8-b46a9e9c4896](https://github.com/user-attachments/assets/f50252e2-7dc8-4e12-bca2-72fefcab98b1)
-```
+![276879648-d373199d-6217-44b5-a1b8-b46a9e9c4896](https://github.com/user-attachments/assets/57fe743d-c454-46a4-8b21-9b8644908611)
+
 
 
 
