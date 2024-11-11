@@ -9,6 +9,7 @@ To create, deploy and execute RESTful Web service programs using Server, Client 
 ### Server side:
 Step 1: Create a new Java Web Project. Follow Steps 1-5 as in SOAP Based Web Service.
 Step 2: Right-click on the project name and select New->RESTful Web Services from Patterns.
+
 ```
 ![276879648-d373199d-6217-44b5-a1b8-b46a9e9c4896](https://github.com/user-attachments/assets/f50252e2-7dc8-4e12-bca2-72fefcab98b1)
 ```
@@ -17,6 +18,7 @@ Step 2: Right-click on the project name and select New->RESTful Web Services fro
 
 
 Step 3: A new window will appear. Select “Simple Root Resource” and click Next.
+
 ```
 ![276879668-31f7efbd-ba9f-4ee9-966e-ffb0d31e54a3-1](https://github.com/user-attachments/assets/ddf95c28-9a0a-4f7e-9cb1-739101e2020a)
 
@@ -28,13 +30,13 @@ Step 3: A new window will appear. Select “Simple Root Resource” and click Ne
 Step 4: In the next window, give a Resource Package name and choose MIME Type as “text/html”. Click Finish.
 ```
 ![276879698-eb5725c3-989a-4098-9356-cccafb12c7f8-1](https://github.com/user-attachments/assets/01295fba-1f34-4585-a1a2-3298c01cfa28)
-
 ```
 
 
 Step 5: Two editing tabs will appear. Close “ApplicationConfig.java”. You need to write all your required functionalities in GenericResource.java.
 Step 6: Alter getHtml() method as shown below.
 Step 7: Save your project, clean and build it. Deploy your project.
+
 ```
 ![276879804-881e6734-33db-4e61-8232-c3c1cd3ad0f5-1](https://github.com/user-attachments/assets/aab49a4d-86df-42f0-bbf3-e65a0e998fd1)
 
